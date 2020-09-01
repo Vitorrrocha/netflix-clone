@@ -1,6 +1,6 @@
 # netflix-clone
 A clone of the Netflix interface developed in react. 🍿📺
-
+Not finished yet
 ### Available Scripts 💻
 
 **Cloning repository and running**
