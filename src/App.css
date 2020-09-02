@@ -9,3 +9,28 @@ body {
     margin: 0;
     font-family: 'Roboto', sans-serif;
 }
+
+.lists {
+    margin-top: -200px;
+}
+
+footer {
+    height:70px;
+    text-align: center;
+    margin: 0 auto;
+    color: #fff;
+    margin: 50px 0;
+}
+
+footer a{
+    text-decoration: none;
+    color: rgb(238, 44, 38);
+    transition: all ease 0.2s;
+}
+
+
+footer a:hover{
+    text-decoration: none;
+    color: rgb(0, 156, 247);
+
+}
