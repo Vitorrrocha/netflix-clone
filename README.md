@@ -3,6 +3,7 @@
 
 # netflix-clone
 A clone of the Netflix interface developed in react. 🍿📺
+If you clone this app, to run you need to change the tmdb API´s key.
 
 ### Available Scripts 💻
 
