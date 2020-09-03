@@ -1,4 +1,4 @@
-<img alt="gif" src="githubAssets/webGif.gif"/>
+<img alt="gif" src="githubAssets/webImg.png"/>
 <img alt="gif" src="githubAssets/mobileGif.gif" width="250" height="528"/>
 
 # netflix-clone
