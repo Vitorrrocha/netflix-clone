@@ -57,7 +57,7 @@ export default () => {
       <section className='lists'>
         {movieList.map((item, key)=>(
           <MovieRow key={key} title={item.title} items={item.items} />
-        ))}
+      ))}
       </section>
 
       <footer>
@@ -65,7 +65,12 @@ export default () => {
         Developed by: <a href='http://vitorrrocha.github.io/'>Vitor A. B. Rocha</a> to study react<span role='img' aria-label='computer'>💻</span>.<br />
         Data extracted at https://www.themoviedb.org/<br/>
       </footer>
-
+      
+      {movieList.length <= 0 &&
+      <div className='loading'>
+        <img src="https://cdn.lowgif.com/small/0534e2a412eeb281-the-counterintuitive-tech-behind-netflix-s-worldwide.gif" alt="loading"></img>
+      </div>     
+      }
     </div>
   );
 }
