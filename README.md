@@ -1,4 +1,5 @@
 <img alt="GoStack" src="githubAssets/webGif.gif" />
+<img alt="GoStack" src="githubAssets/mobileGif.gif" />
 # netflix-clone
 A clone of the Netflix interface developed in react. 🍿📺
 Not finished yet
