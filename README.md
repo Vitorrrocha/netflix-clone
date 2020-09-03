@@ -1,5 +1,5 @@
 <img alt="gif" src="githubAssets/webGif.gif" />
-<img alt="gifk" src="githubAssets/mobileGif.gif" />
+<img alt="gif" src="githubAssets/mobileGif.gif" />
 # netflix-clone
 A clone of the Netflix interface developed in react. 🍿📺
 Not finished yet
