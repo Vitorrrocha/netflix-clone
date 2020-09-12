@@ -1,4 +1,4 @@
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=netflix-clone)](https://github.com/vitorrrocha/netflix-clone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=netflix-clone&theme=dark)](https://github.com/vitorrrocha/netflix-clone)
 
 <img alt="gif" src="githubAssets/webImg.png"/>
 <img alt="gif" src="githubAssets/mobileGif.gif" width="250" height="528"/>
